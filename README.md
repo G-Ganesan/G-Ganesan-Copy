@@ -14,5 +14,5 @@ AI Document Assistant — Planned; add only after implementation.
 Interested in full-stack and backend software engineering opportunities, including international opportunities in Ireland and the UK.
 📫 Connect
 GitHub: https://github.com/G-Ganesan
-LinkedIn: (Add your real profile URL)
+LinkedIn: https://www.linkedin.com/in/ganesan216/
 > I publish personal demo projects here. My employer projects and customer data are not shared.
